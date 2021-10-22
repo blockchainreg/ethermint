@@ -1,10 +1,10 @@
 accounts:
-  - name: alice
+  - name: reggie
     coins: ["20000token", "200000000stake"]
   - name: bob
     coins: ["10000token", "100000000stake"]
 validator:
-  name: alice
+  name: reggie
   staked: "100000000stake"
 client:
   openapi:
