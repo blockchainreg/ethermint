@@ -1,0 +1,11 @@
+syntax = "proto3";
+package cosmonaut.hazlor.hazlor;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/cosmonaut/hazlor/x/hazlor/types";
+
+// GenesisState defines the hazlor module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
